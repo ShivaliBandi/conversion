@@ -1,3 +1,12 @@
+
+/*
+conversion of decimal to hexadecimal number
+input:479
+output:1DF
+
+
+
+*/
 #include <stdio.h>
 #include <math.h>
 #include <string.h>

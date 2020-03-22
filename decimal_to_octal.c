@@ -1,3 +1,14 @@
+
+
+/*
+conversion of decimal to octal number
+input:670
+output:1236
+
+
+
+*/
+
 #include<stdio.h>
 
 void decToOctal(int n) 

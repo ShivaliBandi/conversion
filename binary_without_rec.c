@@ -1,3 +1,10 @@
+/*
+conversion of decimal to binary using recursion
+input:15
+ouput:1111
+
+*/
+
 #include<stdio.h>
 
 void decToBinary(int n) 

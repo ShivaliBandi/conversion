@@ -1,3 +1,13 @@
+/*
+conversion of octal to dec number
+input:1071
+output:569
+
+
+
+*/
+
+
 #include <math.h>
 #include <stdio.h>
 int convert(long long n);

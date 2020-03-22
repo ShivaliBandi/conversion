@@ -1,3 +1,12 @@
+
+/*
+conversion of binary to decimal  
+input:1111
+ouput:15
+
+*/
+
+
 #include <math.h>
 #include <stdio.h>
 int convert(long long n);
